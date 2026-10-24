@@ -1,0 +1,12 @@
+{
+  "name": "student-registration",
+  "version": "1.0.0",
+  "description": "Student Registration System using Node.js and server-side validation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
